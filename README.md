@@ -5,11 +5,11 @@ This project is about Binary Trees in C and other tree-type data structures.
 
 ## Resources
   ### Read or watch:
-      - [Binary tree (note the first line: Not to be confused with B-tree.)](https://en.wikipedia.org/wiki/Binary_tree)
-      - [Data Structure and Algorithms - Tree](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm)
-      - [Tree Traversal](https://www.tutorialspoint.com/data_structures_algorithms/tree_traversal.htm)
-      - [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
-      - [Data structures: Binary Tree](https://www.youtube.com/watch?v=H5JubkIy_p8)
+   - [Binary tree (note the first line: Not to be confused with B-tree.)](https://en.wikipedia.org/wiki/Binary_tree)
+   - [Data Structure and Algorithms - Tree](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm)
+   - [Tree Traversal](https://www.tutorialspoint.com/data_structures_algorithms/tree_traversal.htm)
+   - [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
+   - [Data structures: Binary Tree](https://www.youtube.com/watch?v=H5JubkIy_p8)
     
 ## Learning Objectives
 - What is a binary tree
