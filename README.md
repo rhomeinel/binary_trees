@@ -21,4 +21,7 @@ This project is about Binary Trees in C and other tree-type data structures.
       
 ## Usage 
 - All files were create and compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
-- All files were linted for syntax and style with Betty
+- All files were linted for syntax and style with [Betty](https://github.com/holbertonschool/Betty)
+
+### Authors
+* [Rhomeinel](https://github.com/rhomeinel) - [@LRoudge](https://twitter.com/rhomeinel)
